@@ -1,0 +1,10 @@
+let name = "muhammad zahid khan"
+let b ="Aman ullah"
+console.log("his Name is ",name ,"and the brother name is ",b )
+console.log(`His name is ${name} and the brother name is  ${b}`)
+console.log(name.slice(0,10))
+console.log(name.concat(b))
+
+console.log(name.trim("zahid"))//this is not clear
+
+console.log(b.startswith("za"))
